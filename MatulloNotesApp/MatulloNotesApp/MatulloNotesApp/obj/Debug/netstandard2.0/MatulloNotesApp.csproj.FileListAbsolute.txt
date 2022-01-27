@@ -1,0 +1,17 @@
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\bin\Debug\netstandard2.0\MatulloNotesApp.deps.json
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\bin\Debug\netstandard2.0\MatulloNotesApp.dll
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\bin\Debug\netstandard2.0\ref\MatulloNotesApp.dll
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\bin\Debug\netstandard2.0\MatulloNotesApp.pdb
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\MatulloNotesApp.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\MatulloNotesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\MatulloNotesApp.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\MatulloNotesApp.AssemblyInfo.cs
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\MatulloNotesApp.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\MatulloNotesApp.dll
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\ref\MatulloNotesApp.dll
+C:\Users\Utente\Desktop\MatulloNotesApp\MatulloNotesApp\MatulloNotesApp\obj\Debug\netstandard2.0\MatulloNotesApp.pdb
